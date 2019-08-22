@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="surflog" src="https://github.com/diki/surfcut/blob/master/assets/banner_small.png">
+  <img alt="surflog" src="https://github.com/techdervish/surflog/blob/master/assets/banner_small.png">
 </p>
 
 <p align="center">
