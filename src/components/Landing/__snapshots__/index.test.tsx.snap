@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing component renders the expected snapshot 1`] = `
+<div>
+  <div
+    className="f4 fw2 lh-title pt1"
+  >
+    <div
+      className="f2"
+    >
+      <span
+        className="fw3"
+      >
+        SurfLog keep records of your browsing on
+      </span>
+       
+      <RecordedPagesSlide />
+    </div>
+    <div
+      className="pt3"
+    >
+      <label
+        className="fw5"
+      >
+        What is a record?
+      </label>
+      <div>
+        Records are created for new visits or for the interactions on website. It consists of metadata (time, link) and the content extracted from website.
+      </div>
+    </div>
+    <div
+      className="pt3"
+    />
+    <label
+      className="fw5"
+    >
+      Is it safe?
+    </label>
+    <div>
+      All data is kept in your browser's storage, nothing is sent or shared. All the code can be inspected and you can learn more on
+       
+      <a
+        className="black"
+        href="#"
+        onClick={[MockFunction]}
+      >
+        Github
+      </a>
+      .
+    </div>
+  </div>
+  <a
+    className="mt4 f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4 justify-center w-100"
+    href="#0"
+    onClick={[MockFunction]}
+  >
+    SOUNDS GOOD
+  </a>
+</div>
+`;
