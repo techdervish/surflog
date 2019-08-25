@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+
+  "name": "SurfLog",
+  "description": "Better browser browser history",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["js/bg.entry.js"]
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "bookmarks",
+    "unlimitedStorage",
+    "tabs",
+    "downloads"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://news.ycombinator.com/*",
+        "*://twitter.com/*",
+        "*://youtube.com/*",
+        "*://github.com/*",
+        "*://stackoverflow.com/*",
+        "*://reddit.com/*"
+      ],
+      "js": ["js/content.entry.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
