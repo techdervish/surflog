@@ -21,8 +21,6 @@ exports[`AppHeader component renders the expected snapshot 1`] = `
     </div>
     <div
       className="fw9 pl3 lh-title"
-      data-for="tooltip"
-      data-tip={true}
     >
       SURFLOG
     </div>

@@ -21,9 +21,7 @@ const AppHeader = (props: IProps) => (
           fill="rgb(42, 186, 83)"
         />
       </div>
-      <div className="fw9 pl3 lh-title" data-tip data-for="tooltip">
-        SURFLOG
-      </div>
+      <div className="fw9 pl3 lh-title">SURFLOG</div>
       <div
         style={{
           marginLeft: 'auto',

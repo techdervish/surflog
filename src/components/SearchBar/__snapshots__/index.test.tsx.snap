@@ -9,14 +9,14 @@ exports[`SearchBar component renders the expected snapshot 1`] = `
   }
 >
   <div
-    className="f4 pb3"
+    className="f4 pb3 black-70"
   >
     Search
      
     <Dropdown
       arrowClassName="source-dropdown-arrow"
       baseClassName="Dropdown"
-      className="f4 dib v-btm bb b--gray fw3"
+      className="f4 dib v-btm bb b--gray fw3 black-50"
       controlClassName="none bn-ns pb0 fw4 mr2"
       menuClassName="source-dropdown-menu"
       onChange={[Function]}
@@ -68,7 +68,6 @@ exports[`SearchBar component renders the expected snapshot 1`] = `
         }
       }
       type="text"
-      value=""
     />
   </div>
 </div>
