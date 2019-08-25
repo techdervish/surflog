@@ -22,12 +22,12 @@
   "content_scripts": [
     {
       "matches": [
-        "*://news.ycombinator.com/*",
-        "*://twitter.com/*",
-        "*://youtube.com/*",
-        "*://github.com/*",
-        "*://stackoverflow.com/*",
-        "*://reddit.com/*"
+        "*://*.news.ycombinator.com/*",
+        "*://*.twitter.com/*",
+        "*://*.youtube.com/*",
+        "*://*.github.com/*",
+        "*://*.stackoverflow.com/*",
+        "*://*.reddit.com/*"
       ],
       "js": ["js/content.entry.js"],
       "run_at": "document_end"
