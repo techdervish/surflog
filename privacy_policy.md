@@ -10,30 +10,30 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-While using this service I may collect information when you visit some particular web pages or from your actions on those web pages. Note that all information that I request will be retained on your device. Below you can see exactly what information is collected:
+While using this service I may collect information when you visit some particular web pages or from your actions on those web pages. Note that all information that I request will be retained on your device. Below you can see exactly what information is collected for each web page:
 
-### HackerNews
+HackerNews:
 
 - On home page every outgoing link you clicked is recorded with it's title and the link information.
 - When you visit a post page; title, link and all comments are recorded.
 
-### Twitter
+Twitter
 
 - Every tweet you navigated or like or retweet will be recorded with author, tweet content and link.
 
-### Github
+Github
 
 - When you visit a repository page; author, title, link and README will be recorded.
 
-### Stackoverflow
+Stackoverflow
 
 - When you visit to a question page; author, title, link and all commments will be recorded.
 
-### Reddit
+Reddit
 
 - When you visit to a post page; author, title, link and all comments will be recorded.
 
-### Youtube
+Youtube
 
 - When visit a video URL; author, title and link will be recorded.
 
